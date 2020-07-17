@@ -50,6 +50,6 @@ You operate in the entertainment industry.  Want to provision a bar/club/nightli
 ## 2) Contributor User (earn $$$)
 
 You are a craftsperson and would like to make a little money.
-1) "BLOCKERize" your service into a BLOCKER compliant `Mod`.
-2) List it on the market place.
-3) Provide service/product & profit.
+1. "BLOCKERize" your service into a BLOCKER compliant `Mod`.
+2. List it on the market place.
+3. Provide service/product & profit.
